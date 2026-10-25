@@ -1,0 +1,1 @@
+{"name":"bird-sightings","private":true,"version":"0.1.0","type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"d3-geo":"^3.1.1","react":"^19.3.1","react-dom":"^19.3.1","topojson-client":"^3.1.0","us-atlas":"^3.0.1"},"devDependencies":{"@vitejs/plugin-react":"^6.1.2","vite":"^8.3.5"}}

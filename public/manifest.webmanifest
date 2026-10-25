@@ -1,0 +1,10 @@
+{
+  "name": "Bird Sightings",
+  "short_name": "Birds",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5ef",
+  "theme_color": "#f3f5ef",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
